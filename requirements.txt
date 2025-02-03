@@ -1,0 +1,37 @@
+#################################################
+# RECOMENDAÇÕES DE INSTALAÇÃO
+# #################################################
+
+# Instruções de Uso:
+# Requisitos:
+# - Visual Studio Code (VS Code)
+#   - Recomendado: Baixar VS Code versão 1.68.0 ou superior (https://code.visualstudio.com/Download)
+# - Python 3.8 ou superior
+
+# Instalação:
+# 1. Clone este repositório:
+#    URL GitHub: https://github.com/Ohana-Souza/POO.git
+
+# 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
+#    python -m venv venv
+#    source venv/bin/activate  # Para sistemas Unix
+#    .\venv\Scripts\activate   # Para Windows
+
+# 3. Instale as bibliotecas necessárias:
+#    Execute o seguinte comando no terminal:
+#    pip install -r requirements.txt
+
+# Executando a Aplicação:
+# Para iniciar a aplicação, execute o arquivo interface.py:
+# python interface.py
+
+# Visualização do Histórico de Nutrientes:
+# Para visualizar o histórico de nutrientes:
+# - Se estiver utilizando um mouse pad, arraste com dois dedos para cima.
+# - Se estiver utilizando um mouse, use a roda de rolagem para visualizar os itens localizados mais abaixo.
+
+supabase
+tkcalendar
+Pillow
+tkcalendar
+bcrypt
