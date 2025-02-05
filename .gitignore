@@ -1,0 +1,10 @@
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações locais
+config.py  
+
+# Logs
+*.log
